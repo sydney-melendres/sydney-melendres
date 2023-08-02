@@ -24,6 +24,9 @@
   },
   "homepage": "https://github.com/sydney-melendres/sydney-melendres#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "dotenv": "^16.3.1",
+    "mustache": "^4.2.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^20.9.0"
   }
 }
