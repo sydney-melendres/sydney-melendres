@@ -1,7 +1,7 @@
-<h1>Hey! Nice to see you.</h1>
+<h1>Hello! 👋🏼 I’m Sydney.</h1>
 
 
-<p>Welcome to my page! </br> I'm Sydney, Fullstack developer from <b>Sydney, Australia</b>. </p>
+<p>Welcome to my page! </br> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
