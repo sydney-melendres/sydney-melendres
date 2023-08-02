@@ -1,0 +1,26 @@
+{
+  "name": "sydney-melendres",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sydney-melendres/sydney-melendres.git"
+  },
+  "keywords": [
+    "readme.me",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Sydney Melendres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sydney-melendres/sydney-melendres/issues"
+  },
+  "homepage": "https://github.com/sydney-melendres/sydney-melendres#readme"
+}
