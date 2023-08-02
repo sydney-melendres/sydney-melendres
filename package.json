@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/sydney-melendres/sydney-melendres/issues"
   },
-  "homepage": "https://github.com/sydney-melendres/sydney-melendres#readme"
+  "homepage": "https://github.com/sydney-melendres/sydney-melendres#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
 }
