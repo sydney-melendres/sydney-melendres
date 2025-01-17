@@ -1,1 +1,1 @@
-My name is Sydney and today Friday, 17 January at 12:20 GMT+11.
+My name is Sydney and today Friday, 17 January at 14:20 GMT+11.
